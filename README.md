@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img src = https://i.pinimg.com/originals/a8/4c/b9/a84cb9888bf8fe33cb7604eb29f67a66.jpg>
+
+Andre Alfaro
+
 <!--
 **1andre19/1andre19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
