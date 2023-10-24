@@ -6,5 +6,5 @@ I'm a 19 year old aspiring computer science student at Tec de Monterrey, eager t
 
 <a href = "https://www.linkedin.com/in/andr%C3%A9-alfaro-aguirre-a22763297"> LinkedIn </a>
 
-<a href="https://www.linkedin.com/in/andr%C3%A9-alfaro-aguirre-a22763297"> <img src = "![image](https://github.com/1andre19/1andre19/assets/111261206/9764368b-2870-4d56-a5ae-e5d5cdf0eb49)>
+<a href="https://www.linkedin.com/in/andr%C3%A9-alfaro-aguirre-a22763297"> <img src = "![image](https://github.com/1andre19/1andre19/assets/111261206/9764368b-2870-4d56-a5ae-e5d5cdf0eb49) height : 10% widt: auto> </a>
 
